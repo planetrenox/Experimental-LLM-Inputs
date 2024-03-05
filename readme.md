@@ -1,7 +1,7 @@
 #### I find this very relevant when exercising rights over language.     
 
 
-![img](/docs/assets/attacks)
+![img](/docs/assets/attacks.png)
 
 
 Especially when talking to a LLM  
